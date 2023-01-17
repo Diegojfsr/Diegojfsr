@@ -19,12 +19,13 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Frontend, fazer parte de uma grande equipe de tecnologia e desenvolver projetos inovadores.
 
 😁 Me conheça ainda mais.
-Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:
+Esses são alguns dos projetos que tive a oportunidade de participar e que gosto de destacar:
 </p>
 
-
+<!--
 <div>
 <a href="https://github.com/Diegojfsr">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegojfsr&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegojfsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
