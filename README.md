@@ -12,10 +12,10 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
 </p>
 
 <p dir="auto">
-😊 Um pouco mais sobre Mim...
+😊 Um pouco mais sobre Mim... <br>
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
 
-🎯 Meu objetivo.
+🎯 Meu objetivo.  <br>
 Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Frontend, fazer parte de uma grande equipe de tecnologia e desenvolver projetos inovadores.
 
 😁 Me conheça ainda mais.<br>
