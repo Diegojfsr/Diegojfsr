@@ -5,7 +5,7 @@ Sou Diego Jefferson, Frontend Developer.
 
 <p dir="auto">
 <em>
-👨‍💻 Iniciei minha trajetória em 2011 como Design/UX & UI. 
+👨‍💻 Iniciei minha trajetória em 2011 como Design/UX & UI. <br>
 Em 2021 optei pela transição de carreira, iniciei os estudos e a Graduação em Gestão da Tecnologia.
 Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance, utilizando boas práticas e padrões para obter maior legibilidade e facilitar a     manutenção do código e a utilização pelos usuários.
 </em>
