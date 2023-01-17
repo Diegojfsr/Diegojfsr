@@ -18,7 +18,7 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 🎯 Meu objetivo.
 Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Frontend, fazer parte de uma grande equipe de tecnologia e desenvolver projetos inovadores.
 
-😁 Me conheça ainda mais.
+😁 Me conheça ainda mais.<br>
 Esses são alguns dos projetos que tive a oportunidade de participar e que gosto de destacar:
 </p>
 
