@@ -1,8 +1,8 @@
-<h1>
-Olá! 👋😁Tudo bem?! <br>
-Sou Diego Jefferson, Frontend Developer. 
-</h1>
-
+<p dir="auto">
+  <h1>Olá! 👋😁Tudo bem!  <br>
+  Sou Diego Jefferson, Frontend Developer</h1>
+</p> 
+  
 <p dir="auto">
 <em>
 👨‍💻 Iniciei minha trajetória em 2011 como Design/UX & UI. Em 2021 optei pela transição de carreira, iniciei os estudos e a Graduação em Gestão da Tecnologia.
