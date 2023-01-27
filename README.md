@@ -17,12 +17,31 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 🎯 Meu objetivo.  <br>
 Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Frontend, fazer parte de uma grande equipe de tecnologia e desenvolver projetos inovadores.
 
-😁 Me conheça ainda mais.<br>
-Esses são alguns dos projetos que tive a oportunidade de participar e que gosto de destacar:
+<br>
+<h2 dir="auto"> 😁 Me conheça ainda mais. </h2> 
+<ul dir="auto">
+  <li> 🔶<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> <strong>Curriculo</strong> </a></li>
+  <li> 🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a></li>
+  <li> 🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a></li>
+  <li> 🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a></li>
+</ul>
+
+
+
+  
+  
+  
+  
 </p>
 
-</em>
+
+
+  
+  
+  
+  </em>
 </p>
+
 <!--
 <div>
 <a href="https://github.com/Diegojfsr">
