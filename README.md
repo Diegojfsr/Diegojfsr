@@ -19,9 +19,9 @@ Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Fro
 
 <h2 dir="auto"> 😁 Me conheça ainda mais. </h2> 
 <ul dir="auto">
-🔶<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> <strong>Curriculo</strong> </a></li><br>
-🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a><br>
-🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a><br>
+🔶<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> <strong>Curriculo</strong> </a></li> | 
+🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a>  | 
+🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a><br>  | 
 🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a><br>
 </ul>
 
