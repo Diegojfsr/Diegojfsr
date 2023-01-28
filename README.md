@@ -8,32 +8,29 @@
 <em>
 Iniciei minha trajetória em 2011 como Design/UX & UI. Em 2021 optei pela transição de carreira, iniciei os estudos e a Graduação em Gestão da Tecnologia.
 Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance, utilizando boas práticas e padrões para obter maior legibilidade e facilitar a     manutenção do código e a utilização pelos usuários.
+  
+<strong>😊 Um pouco mais sobre Mim... </strong>
+Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
+
 </em>
 </p>
 
 <p dir="auto">
-<h4>😊 Um pouco mais sobre Mim... </h4>
+<strong>😁 Me conheça ainda mais. </strong>
 
-Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
-
-</p>
-
-<p dir="auto">
-<h4> 😁 Me conheça ainda mais. </h4> 
-<ul dir="auto">
 <em>
 🔶<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> <strong>Curriculo</strong> </a></li> | 
 🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a>  | 
 🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a> | 
 🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a>
 </em>
-</ul>
+
 </p>
 
 <p dir="auto">
 <h2> 👨‍💻 Projetos & Experiências </h2> 
 <em>
-Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:
+👨‍💻 Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:
 </em>
 <ul dir="auto">
 <em>
