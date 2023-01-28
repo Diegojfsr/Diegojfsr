@@ -19,10 +19,10 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 <strong>😁 Me conheça ainda mais. </strong>
 
 <em>
-🔶<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> <strong>Curriculo</strong> </a></li> | 
-🔶<a href="https://www.linkedin.com/in/diegojfsr/"> <strong>Linkedin</strong> </a>  | 
-🔶<a href="https://github.com/Diegojfsr"> <strong>Github</strong> </a> | 
-🔶<a href="https://www.behance.net/diegojfsr"> <strong>Behance</strong> </a>
+<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> <strong> 🔵 Curriculo</strong> </a></li> | 
+<a href="https://www.linkedin.com/in/diegojfsr/"> <strong> 🔵 Linkedin</strong> </a>  | 
+<a href="https://github.com/Diegojfsr"> <strong> 🔵 Github</strong> </a> | 
+<a href="https://www.behance.net/diegojfsr"> <strong> 🔵 Behance</strong> </a>
 </em>
 
 </p>
@@ -34,10 +34,10 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 </em>
 <ul dir="auto">
 <em>
-🔶<a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong>Santander Dev Week</strong> </a></li> | 
-🔶<a href="https://github.com/Diegojfsr/Carrefour_Web_Developer"> <strong>Carrefour Web Developer</strong> </a>  | 
-🔶<a href="https://github.com/Diegojfsr/GFT_Start5_Java"> <strong>GFT Start</strong> </a> | 
-🔶<a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini"> <strong>Start by Capgemini</strong> </a>
+<a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong> 🟢 Santander Dev Week</strong> </a></li> | 
+<a href="https://github.com/Diegojfsr/Carrefour_Web_Developer"> <strong> 🟢 Carrefour Web Developer</strong> </a>  | 
+<a href="https://github.com/Diegojfsr/GFT_Start5_Java"> <strong> 🟢 GFT Start</strong> </a> | 
+<a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini"> <strong> 🟢 Start by Capgemini</strong> </a>
 </em>
 </ul>
 
