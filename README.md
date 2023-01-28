@@ -13,9 +13,9 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
 
 <p dir="auto">
 <h4>😊 Um pouco mais sobre Mim... </h4>
-<em>
+
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
-</em>
+
 </p>
 
 <p dir="auto">
@@ -31,24 +31,19 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 </p>
 
 <p dir="auto">
-<h4> 👨‍💻 Projetos & Experiências </h4> 
+<h2> 👨‍💻 Projetos & Experiências </h2> 
 <em>
 Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:
-  
-<h3>Santander Dev Week</h3>
-O objetivo principal é construir uma aplicação que gera extratos bancários.
-
-<h3>Carrefour Web Developer</h3>
-Durante a jornada, aprendi e trabalhei com, JavaScript, ReactJS, JAVA e Spring Boot.
-
-<h3>GFT Start</h3>
-Programa para formação e recrutamento pela GFT, explorando uma trilha completa em Java.
-
-<h3>Start by Capgemini</h3>
-Uma iniciativa da Capgemini para formar e recrutar novos talentos em desenvolvimento Java.
-
 </em>
-</p>
+<ul dir="auto">
+<em>
+🔶<a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong>Santander Dev Week</strong> </a></li> | 
+🔶<a href="https://github.com/Diegojfsr/Carrefour_Web_Developer"> <strong>Carrefour Web Developer</strong> </a>  | 
+🔶<a href="https://github.com/Diegojfsr/GFT_Start5_Java"> <strong>GFT Start</strong> </a> | 
+🔶<a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini"> <strong>Start by Capgemini</strong> </a>
+</em>
+</ul>
+
 
 
 
