@@ -14,8 +14,6 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
 😊 Um pouco mais sobre Mim... <br>
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
 
-🎯 Meu objetivo.  <br>
-Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Frontend, fazer parte de uma grande equipe de tecnologia e desenvolver projetos inovadores.
 
 <h2 dir="auto"> 😁 Me conheça ainda mais. </h2> 
 <ul dir="auto">
@@ -29,6 +27,8 @@ Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Fro
 </em>
 </p>
 
+
+
 <!--
 <div>
 <a href="https://github.com/Diegojfsr">
@@ -36,3 +36,6 @@ Meu objetivo é assumir uma posição permanente na área de Desenvolvimento Fro
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegojfsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
+
+
+
