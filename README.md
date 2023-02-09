@@ -33,7 +33,7 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 <a href="https://github.com/Diegojfsr/GFT_Start5_Java"> <strong> 🟢 GFT Start</strong> </a> |
 <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini"> <strong> 🟢 Start by Capgemini</strong> </a>  | 
 <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer"> <strong> 🟢 Carrefour Web Developer</strong> </a> |
-<a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong> 🟢 Santander Dev Week</strong> </a></li>
+<a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong> 🟢 Santander FullStack Developer</strong> </a></li>
  
 
 </ul>
