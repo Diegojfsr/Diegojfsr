@@ -19,7 +19,8 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> 🔵 Curriculo </a>  | 
 <a href="https://www.linkedin.com/in/diegojfsr/"> 🔵  Linkedin </a> | 
 <a href="https://github.com/Diegojfsr"> 🔵  Github </a> | 
-<a href="https://www.behance.net/diegojfsr">  🔵  Behance </a>
+<a href="https://www.behance.net/diegojfsr">  🔵  Behance </a> |
+<a href="https://medium.com/@diegojfsr">  🔵  Medium </a>
 </em>
 </p>
 
