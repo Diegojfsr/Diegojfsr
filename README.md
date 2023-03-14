@@ -1,3 +1,6 @@
+
+![](https://github.com/Diegojfsr/GFT_Start/blob/main/Imagens/Start%20GFT.jpg)
+
 <p dir="auto">
   <h1>Olá! 👋😁Tudo bem!  <br>
   Sou Diego Jefferson, Frontend Developer</h1>  
