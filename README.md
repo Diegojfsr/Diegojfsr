@@ -1,5 +1,5 @@
 
-![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/1592499154705.jpg)
+![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
 
 
 <p dir="auto">
