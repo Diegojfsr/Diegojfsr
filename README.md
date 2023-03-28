@@ -19,7 +19,7 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 
 <p dir="auto">
 <em>
-😁 Me conheça ainda mais.
+😁 Me conheça ainda mais.<br><br>
 <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> 🔵 Curriculo </a>  | 
 <a href="https://www.linkedin.com/in/diegojfsr/"> 🔵  Linkedin </a> | 
 <!--<a href="https://github.com/Diegojfsr"> 🔵  Github </a> | -->
