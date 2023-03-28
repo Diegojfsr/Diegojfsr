@@ -30,7 +30,7 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 
 <p dir="auto">
 <h2> 👨‍💻 Projetos & Experiências </h2> 
-<em> 👨‍💻 Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:</em>
+<em> 👨‍💻 Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:</em><br><br>
 
 <ul dir="auto">
 <a href="https://github.com/Diegojfsr/GFT_Start"> <strong> 🟢 GFT Start</strong> </a> |
