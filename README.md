@@ -30,17 +30,13 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 
 <p dir="auto">
 <h2> 👨‍💻 Projetos & Experiências </h2> 
-<em>
-👨‍💻 Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:<br><br>
-</em>
+<em> 👨‍💻 Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:</em>
+
 <ul dir="auto">
-  
 <a href="https://github.com/Diegojfsr/GFT_Start"> <strong> 🟢 GFT Start</strong> </a> |
 <a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini"> <strong> 🟢 Start by Capgemini</strong> </a>  | 
 <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer"> <strong> 🟢 Carrefour Web Dev</strong> </a> |
 <a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong> 🟢 Santander FullStack Dev</strong> </a></li>
- 
-
 </ul>
 
 
