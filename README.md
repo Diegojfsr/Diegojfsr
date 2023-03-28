@@ -31,7 +31,7 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 <p dir="auto">
 <h2> 👨‍💻 Projetos & Experiências </h2> 
 <em>
-👨‍💻 Esses são alguns dos projetos que gosto de destacar, é que tive a oportunidade de participar:<br><br>
+👨‍💻 Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:<br><br>
 </em>
 <ul dir="auto">
   
