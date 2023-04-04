@@ -27,7 +27,8 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong> 🟢 Santander FullStack Dev</strong> </a></li>
 </em>
 </p>
-  
+<br>
+<br>
 <p dir="auto">
 <em>
 <strong>😁 Me conheça ainda mais.</strong><br>
