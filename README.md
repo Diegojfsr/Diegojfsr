@@ -33,16 +33,7 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <strong>😁 Me conheça ainda mais.</strong><br>
 </em>
 
-<p dir="auto">
-<!-- Curriculo --> 
-<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/d8c49cc7941a5ddabddf9e7ee44daac5880350225bc8486c6257826580559968/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304372656174697665253230436c6f75642d4441314632363f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304372656174697665253230436c6f7564266c6f676f436f6c6f723d7768697465" alt="Curriculo" data-canonical-src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&amp;logo=Curriculo;logoColor=white" style="max-width: 100%;"></a>
-<!-- Linkedin --> 
-<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/cb4cb3e85732af436d7dd1991aa955e7173050c253e334f2e866b35ca9d87095/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265253230496c6c7573747261746f722d4646394130303f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f6265253230696c6c7573747261746f72266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-<!-- Behance --> 
-<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/8493ff73518d90c3f0d981841f0dc2098b4e89db3e076851b372a9dc066913b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265253230496e44657369676e2d4646333336363f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230496e44657369676e266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-FF3366?style=for-the-badge&amp;logo=Adobe%20InDesign&amp;logoColor=white" style="max-width: 100%;"></a>
-<!-- Medium -->  
-<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/7682cd75b45cbe5504360205624d2a57fba784c84d0bdaf7c553406d5c6b1bda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3030353446373f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-0054F7?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
+
 
 
 <div style="display:inline">
@@ -78,8 +69,18 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 
   
   
+<!--
+<p dir="auto">
+ 
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/d8c49cc7941a5ddabddf9e7ee44daac5880350225bc8486c6257826580559968/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304372656174697665253230436c6f75642d4441314632363f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304372656174697665253230436c6f7564266c6f676f436f6c6f723d7768697465" alt="Curriculo" data-canonical-src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&amp;logo=Curriculo;logoColor=white" style="max-width: 100%;"></a>
 
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/cb4cb3e85732af436d7dd1991aa955e7173050c253e334f2e866b35ca9d87095/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265253230496c6c7573747261746f722d4646394130303f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f6265253230696c6c7573747261746f72266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
 
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/8493ff73518d90c3f0d981841f0dc2098b4e89db3e076851b372a9dc066913b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265253230496e44657369676e2d4646333336363f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230496e44657369676e266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-FF3366?style=for-the-badge&amp;logo=Adobe%20InDesign&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/7682cd75b45cbe5504360205624d2a57fba784c84d0bdaf7c553406d5c6b1bda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3030353446373f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-0054F7?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
+-->
 
 
 
