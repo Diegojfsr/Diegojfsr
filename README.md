@@ -28,17 +28,36 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 </em>
 </p>
 <br>
-<p dir="auto">
+
 <em>
 <strong>😁 Me conheça ainda mais.</strong><br>
 </em>
 
-<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/7682cd75b45cbe5504360205624d2a57fba784c84d0bdaf7c553406d5c6b1bda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3030353446373f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>  
+<p dir="auto">
+<!-- Curriculo --> 
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/d8c49cc7941a5ddabddf9e7ee44daac5880350225bc8486c6257826580559968/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304372656174697665253230436c6f75642d4441314632363f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532304372656174697665253230436c6f7564266c6f676f436f6c6f723d7768697465" alt="Curriculo" data-canonical-src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&amp;logo=Adobe%20Creative%20Cloud&amp;logoColor=white" style="max-width: 100%;"></a>
+<!-- Linkedin --> 
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/cb4cb3e85732af436d7dd1991aa955e7173050c253e334f2e866b35ca9d87095/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265253230496c6c7573747261746f722d4646394130303f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f6265253230696c6c7573747261746f72266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white" style="max-width: 100%;"></a>
+<!-- Behance --> 
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/8493ff73518d90c3f0d981841f0dc2098b4e89db3e076851b372a9dc066913b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265253230496e44657369676e2d4646333336363f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230496e44657369676e266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&amp;logo=Adobe%20InDesign&amp;logoColor=white" style="max-width: 100%;"></a>
+<!-- Medium -->  
+<a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/7682cd75b45cbe5504360205624d2a57fba784c84d0bdaf7c553406d5c6b1bda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3030353446373f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Mediun" data-canonical-src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
+
+
+
+
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://www.behance.net/diegojfsr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.behance.net/diegojfsr/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://www.behance.net/diegojfsr/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.behance.net/diegojfsr/)
+
   
   
-  
-</p>  
-  
+
   
   
   
