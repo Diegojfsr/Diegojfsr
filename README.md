@@ -33,9 +33,6 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <strong>😁 Me conheça ainda mais.</strong><br><br>
 </em>
 
-
-
-
 <div style="display:inline">
 <!-- Curriculo --> 
 <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
@@ -51,13 +48,12 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 </a>
 <!-- Medium -->
 <a href="https://medium.com/@diegojfsr/about">
-<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/Medium-176977?style=for-the-badge&logo=Medium&logoColor=white">
 </a>
   
 
   
 </div>
-
 
 
 
