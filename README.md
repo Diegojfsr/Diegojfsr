@@ -30,7 +30,7 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <br>
 
 <em>
-<strong>😁 Me conheça ainda mais.</strong><br>
+<strong>😁 Me conheça ainda mais.</strong><br><br>
 </em>
 
 
