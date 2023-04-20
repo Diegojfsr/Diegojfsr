@@ -43,11 +43,11 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
   </a>
   <!-- Linkedin --> 
   <a href="https://www.linkedin.com/in/diegojfsr/">
-   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />"
+   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />"
   </a>
   <!-- Behance --> 
   <a href="https://www.behance.net/diegojfsr">
-   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />"
+   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />"
   </a>
   <!-- Medium --> 
   <a href="https://medium.com/@diegojfsr/about">
@@ -55,7 +55,6 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
   </a>
 
 </div>
-
 
 
 
