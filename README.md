@@ -39,19 +39,19 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <div style="display:inline">
   <!-- Curriculo --> 
   <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
-   <img width='50' height='50' src="https://icons8.com.br/icon/23877/curr%C3%ADculo" />"
+   <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/2144/PNG/512/person_paper_id_card_profile_user_icon_131800.png" />
   </a>
   <!-- Linkedin --> 
   <a href="https://www.linkedin.com/in/diegojfsr/">
-   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />"
+   <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721674-linkedin_108053.png" />
   </a>
   <!-- Behance --> 
   <a href="https://www.behance.net/diegojfsr">
-   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />"
+   <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721681-behance_108059.png" />
   </a>
   <!-- Medium --> 
   <a href="https://medium.com/@diegojfsr/about">
-   <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" />"
+   <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" />
   </a>
 
 </div>
