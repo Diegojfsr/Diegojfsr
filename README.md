@@ -9,7 +9,7 @@
 
 <p dir="auto">
 <em>
-<strong>😊 Um pouco sobre Mim... </strong><br>
+<strong>Um pouco sobre Mim...😊  </strong><br>
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
 <br>
 Iniciei minha trajetória em 2011 como Design/UX & UI.<br>
