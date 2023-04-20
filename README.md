@@ -9,11 +9,12 @@
 
 <p dir="auto">
 <em>
-Iniciei minha trajetória em 2011 como Design/UX & UI. Em 2021 optei pela transição de carreira, iniciei os estudos e a Graduação em Gestão da Tecnologia.
-Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance, utilizando boas práticas e padrões para obter maior legibilidade e facilitar a     manutenção do código e a utilização pelos usuários.
-  
-<strong>😊 Um pouco mais sobre Mim... </strong><br>
+<strong>😊 Um pouco sobre Mim... </strong><br>
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
+<br>
+Iniciei minha trajetória em 2011 como Design/UX & UI.<br>
+Em 2021 optei pela transição de carreira, iniciei os estudos e uma Graduação em Tecnologia.<br>
+Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance, utilizando boas práticas e padrões para obter maior legibilidade e facilitar a     manutenção do código e a utilização pelos usuários.
 </em>
 </p>
 
