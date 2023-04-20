@@ -31,16 +31,27 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <p dir="auto">
 <em>
 <strong>😁 Me conheça ainda mais.</strong><br>
-<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> 🔵 Curriculo </a>  | 
-<a href="https://www.linkedin.com/in/diegojfsr/"> 🔵  Linkedin </a> | 
-<!--<a href="https://github.com/Diegojfsr"> 🔵  Github </a> | -->
-<!--<a href="https://www.behance.net/diegojfsr">  🔵  Behance </a> |-->
+</em>
+
 <a href="https://www.behance.net/diegojfsr" rel="nofollow"><img src="https://camo.githubusercontent.com/7682cd75b45cbe5504360205624d2a57fba784c84d0bdaf7c553406d5c6b1bda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426568616e63652d3030353446373f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" alt="Behance" data-canonical-src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>  
   
   
-<a href="https://medium.com/@diegojfsr">  🔵  Medium </a>
-</em>
-</p>
+  
+</p>  
+  
+  
+  
+  
+  
+<!--<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf"> 🔵 Curriculo </a>  | 
+<a href="https://www.linkedin.com/in/diegojfsr/"> 🔵  Linkedin </a> | 
+<a href="https://github.com/Diegojfsr"> 🔵  Github </a> | 
+<a href="https://www.behance.net/diegojfsr">  🔵  Behance </a> |
+<a href="https://medium.com/@diegojfsr">  🔵  Medium </a>-->
+
+  
+  
+
 
 
 
