@@ -36,7 +36,7 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <div style="display:inline">
 <!-- Curriculo --> 
 <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
-<img src="https://img.shields.io/badge/Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
+<img src="https://img.shields.io/badge/C-%20Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
 </a>
 <!-- Linkedin --> 
 <a href="https://www.linkedin.com/in/diegojfsr/">
