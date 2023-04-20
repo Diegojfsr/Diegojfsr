@@ -51,7 +51,7 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
   </a>
   <!-- Medium --> 
   <a href="https://medium.com/@diegojfsr/about">
-   <img width='50' height='50' src="https://icons8.com.br/icon/kXpTR7n8QCEP/logo-medium" />"
+   <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" />"
   </a>
 
 </div>
