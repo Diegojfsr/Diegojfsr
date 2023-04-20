@@ -36,7 +36,7 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <div style="display:inline">
 <!-- Curriculo --> 
 <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
-<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
 </a>
 <!-- Linkedin --> 
 <a href="https://www.linkedin.com/in/diegojfsr/">
@@ -61,27 +61,40 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
 <div style="display:inline">
-  <!-- Curriculo --> 
+
   <a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
    <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/2144/PNG/512/person_paper_id_card_profile_user_icon_131800.png" />
   </a>
-  <!-- Linkedin --> 
+ 
   <a href="https://www.linkedin.com/in/diegojfsr/">
    <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721674-linkedin_108053.png" />
   </a>
-  <!-- Behance --> 
+
   <a href="https://www.behance.net/diegojfsr">
    <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721681-behance_108059.png" />
   </a>
-  <!-- Medium --> 
+  
   <a href="https://medium.com/@diegojfsr/about">
    <img width='50' height='50' src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" />
   </a>
 
 </div>
 
-
+-->
 
 
 
