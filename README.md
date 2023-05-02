@@ -35,23 +35,27 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 </em>
 
 <div style="display:inline">
-<!-- Curriculo --> 
-<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
-<img src="https://img.shields.io/badge/PDF-%20Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
+
+  <!-- Portifolio --> 
+<a href="https://diegojfsr.myportfolio.com/">
+<img src="https://img.shields.io/badge/Portifolio-FF4040?style=for-the-badge&logo=Portifolio&logoColor=white">
 </a>
 <!-- Linkedin --> 
 <a href="https://www.linkedin.com/in/diegojfsr/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/linkedin-1769ff?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!-- Behance -->
 <a href="https://www.behance.net/diegojfsr">
-<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/Behance-0000CD?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 <!-- Medium -->
 <a href="https://medium.com/@diegojfsr/about">
 <img src="https://img.shields.io/badge/Medium-176977?style=for-the-badge&logo=Medium&logoColor=white">
 </a>
-  
+<!-- Curriculo --> 
+<a href="https://github.com/Diegojfsr/Curriculo/blob/main/DiegoJfsr-Frontend%20Developer.pdf">
+<img src="https://img.shields.io/badge/PDF-%20Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
+</a>
 
   
 </div>
