@@ -2,8 +2,9 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
 
 
-<strong>Hi, I'm Diego Jefferson</strong> <br>
+<h3>Hi, I'm Diego Jefferson</h3>
 Frontend Developer | HTML | CSS | JS | Angular | VUE | UX & UI.
+<br>
 <br>
 <br>
 
@@ -44,7 +45,8 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
   </a>
 </div>
 <br>
-
+<br>
+<br>
 
 
 <strong>👨‍💻 Projetos & Experiência</strong><br>
