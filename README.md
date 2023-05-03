@@ -2,15 +2,12 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
 
 
-<p dir="auto">
-  <h1>Olá, Tudo bem! <br>
-  Sou Diego Jefferson.</h1>  
-  
-  <h3>Frontend Developer | HTML | CSS | JS | Angular | VUE | UX & UI.</h3>
-</p> 
+<strong>Hi, I'm Diego Jefferson</strong> <br>
+Frontend Developer | HTML | CSS | JS | Angular | VUE | UX & UI.
+<br>
 <br>
 
-<p dir="auto">
+
 <em>
 <strong>Um pouco sobre Mim...😊  </strong><br>
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
@@ -18,7 +15,8 @@ Curioso, determinado, focado, apaixonado por desafios e resolução de problemas
 Iniciei minha trajetória em 2011 como Design/UX & UI. Em 2021 optei pela transição de carreira, iniciei os estudos e uma Graduação em Tecnologia.<br>
 Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance, utilizando boas práticas e padrões para obter maior legibilidade e facilitar a     manutenção do código e a utilização pelos usuários.
 </em>
-</p>
+<br>
+<br>
 
 <em>
 <strong>😁 Me conheça ainda mais.</strong><br><br>
