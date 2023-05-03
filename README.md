@@ -44,10 +44,38 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
   </a>
 </div>
 <br>
-<br>
-<br>
 
 
+
+<strong>👨‍💻 Projetos & Experiência</strong><br>
+Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar:<br>
+
+<!-- GFT Start --> 
+<a href="https://github.com/Diegojfsr/GFT_Start">
+<img src="https://img.shields.io/badge/GftStart-1769ff?style=for-the-badge&logo=GGftStart&logoColor=white">
+</a>
+<!-- Start by Capgemini --> 
+<a href="https://github.com/Diegojfsr/Programa_Start_by_Capgemini">
+<img src="https://img.shields.io/badge/Capgemini-0ca5b0?style=for-the-badge&logo=Capgemini&logoColor=white">
+</a>
+<!-- Carrefour Web Dev --> 
+<a href="https://github.com/Diegojfsr/Carrefour_Web_Developer">
+<img src="https://img.shields.io/badge/Carrefour-0000CD?style=for-the-badge&logo=Carrefour&logoColor=white">
+</a>
+<!-- Santander FullStack Dev --> 
+<a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer">
+<img src="https://img.shields.io/badge/Santander-c9031a?style=for-the-badge&logo=Santander&logoColor=white">
+</a>
+
+
+
+
+
+
+
+
+
+<!--
 <p dir="auto">
 <em>
 <strong>👨‍💻 Projetos & Experiência</strong><br>
@@ -58,13 +86,6 @@ Esses são alguns dos projetos que tive a oportunidade de participar e que gosta
 <a href="https://github.com/Diegojfsr/Santander_Fullstack_Developer"> <strong> 🟢 Santander FullStack Dev</strong> </a></li>
 </em>
 </p>
-<br>
-
-
-
-
-
-
-
+-->
 
 
