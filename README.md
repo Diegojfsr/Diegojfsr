@@ -6,7 +6,7 @@ Frontend Developer | HTML | CSS | JS | Angular | VUE | UX & UI.
 <br>
 
 <em>
-<h4>Um pouco sobre Mim...😊 </h4>
+<h4>😊 Um pouco sobre Mim. </h4>
 
 Curioso, determinado, focado, apaixonado por desafios e resolução de problemas através dos Métodos de Desenvolvimento e Processos de Inovação.
 Iniciei minha trajetória em 2011 como Design/UX & UI. Em 2021 optei pela transição de carreira, iniciei os estudos e uma Graduação em Tecnologia.
@@ -37,11 +37,10 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
   <img src="https://img.shields.io/badge/Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
   </a>
 </div>
-
-
+<br>
 
 <h4>👨‍💻 Projetos & Experiência</h4>
-Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar.<br>
+Esses são alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar.<br><br>
 
 <!-- GFT Start --> 
 <a href="https://github.com/Diegojfsr/GFT_Start">
