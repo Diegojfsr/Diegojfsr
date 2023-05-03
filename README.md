@@ -3,7 +3,7 @@
 
 
 <p dir="auto">
-  <h1>Olá! Tudo bem!  <br>
+  <h1>Olá, Tudo bem!  <br>
   Sou Diego Jefferson, Frontend Developer</h1>  
 </p> 
 
