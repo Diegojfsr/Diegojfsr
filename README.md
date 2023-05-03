@@ -3,9 +3,12 @@
 
 
 <p dir="auto">
-  <h1>Olá, Tudo bem!  <br>
-  Sou Diego Jefferson, Frontend Developer</h1>  
+  <h1>Olá, Tudo bem! <br>
+  Sou Diego Jefferson.</h1>  
+  
+  <h3>Frontend Developer | HTML | CSS | JS | Angular | VUE | UX & UI.</h3>
 </p> 
+<br>
 
 <p dir="auto">
 <em>
@@ -42,7 +45,9 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
   <img src="https://img.shields.io/badge/Curriculo-ec7642?style=for-the-badge&logo=Curriculo&logoColor=white">
   </a>
 </div>
-
+<br>
+<br>
+<br>
 
 
 <p dir="auto">
