@@ -2,7 +2,7 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
 
 <h3>Hi, I'm Diego Jefferson</h3>
-Frontend Developer | HTML | CSS | JS | Angular | VUE | UX & UI.
+Frontend Developer | HTML | CSS | JS | TS | Angular | UX & UI.
 <br>
 
 <em>
