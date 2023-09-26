@@ -25,7 +25,7 @@ Desde então, meu foco tem sido desenvolver sistemas com qualidade e performance
 <li>🌠 Freelance UI/UX Designer.</li>
 <li>🌠 Freelance Frontend Developer.</li>
 <li>🌠 IT teacher in public schools.</li>
-<li>🌠 IT instructor for teachers..</li>
+<li>🌠 IT instructor for teachers.</li>
 <li>🌠 UI/UX Adobe collaborator. </li>
 </ul>
 
