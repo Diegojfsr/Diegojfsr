@@ -12,8 +12,8 @@
 <em>
   Iniciei minha trajetória como Design/UX & UI. 
   Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. 
-  Desde então, venho trabalhando com desenvolvimento frontend, 
-  sempre preocupado com a Experiência do Usuário.
+  Desde então, venho trabalhando com desenvolvimento frontend e 
+  sempre me preocupando com a Experiência do Usuário.
 </em>
 
 
