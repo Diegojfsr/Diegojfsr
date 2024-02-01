@@ -9,7 +9,8 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 <em>
   Iniciei minha trajetória como Design/UX & UI. 
   Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. 
-  Desde então, venho trabalhando com sistemas web e desenvolvimento frontend com a Experiência do Usuário.
+  Desde então, venho trabalhando com sistemas web e desenvolvimento frontend 
+  focando na Experiência do Usuário.
 </em>
 
 <h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Um pouco mais sobre... </a></h2>
