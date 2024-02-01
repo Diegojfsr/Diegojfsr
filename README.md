@@ -16,7 +16,7 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 <h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Um pouco mais sobre... </a></h2>
 
 🌠 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular. <br>
-🌠 Coordenador I na secretaria de educação da SFG. <br>
+🌠 Coordenador TI na secretaria de educação da SFG. <br>
 🌠 Professor de Informática no Ensino Básico. <br>
 🌠 UI/UX Designer e Colaborador Adobe. <br>
 🌠 Técnico em Desenvolvimento de Sistemas pelo IFES. <br>
