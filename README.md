@@ -3,32 +3,33 @@
 
 <h1 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Hey, I'm Diego Jefferson! :) </a></h1>
 
-Frontend Developer | HTML | CSS | JS | TS | Angular <br>
+Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular  <br>
 More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a>
-
 
 <em>
   Iniciei minha trajetória como Design/UX & UI. 
   Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. 
-  Desde então, venho trabalhando com desenvolvimento frontend e 
-  sempre me preocupando com a Experiência do Usuário.
+  Desde então, venho trabalhando com sistemas web e desenvolvimento frontend com a Experiência do Usuário.
 </em>
 
-<h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Atualmente trabalhando como... </a></h2>
+<h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Um pouco mais sobre... </a></h2>
 
-🌠Technology Coordinator I. <br>
-🌠 IT teacher in public schools. <br>
-🌠 IT instructor for teachers. <br>
-🌠 Freelance Frontend Developer. <br>
-🌠 Freelance UI/UX Designer. <br>
-🌠 UI/UX Designer Adobe collaborator. <br>
+🌠 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular. <br>
+🌠 Coordenador I na secretaria de educação da SFG. <br>
+🌠 Professor de Informática no Ensino Básico. <br>
+🌠 UI/UX Designer e Colaborador Adobe. <br>
+🌠 Técnico em Desenvolvimento de Sistemas pelo IFES. <br>
+🌠 Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG. <br>
 
 
 <h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Alguns dos projetos que tive a oportunidade de participar e que gostaria de destacar... </a></h2>
 
-⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura MVC, conceitos de estado da IU, JAVA e uma fonte de dados SQL. <br>
-⭐ TheSpaceofDevelopers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema. <br>
-⭐ DedicateWeb, página de busca que traz uma nova experiência para os médicos e para todos os clientes que utilizam a web para marcar consultas. Durante o projeto atuei como Ux&Ui utilizando bastante ferramentas de prototipação, e frontend com HTML, CSS e JavaScript. <br>
+⭐ Plataforma de Biologia, projeto apoiado pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE) do campus Barbacena. Durante o projeto atuei como bolsista responsável pelo desenvolvimento web da plataforma. Utilizei ferramentas de prototipação e desenvolvimento front. <br>
+
+⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura  MVC, JAVA e uma fonte de dados SQL. <br>
+
+⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema. <br>
+
 
 
 <em>
