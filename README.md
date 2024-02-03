@@ -23,7 +23,7 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 🌠 Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG. <br>
 
 
-<h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> PROJETOS | EXPERIÊNCIAS </a></h2>
+<h2 id="user-content-currently-working" dir="auto"><a class="heading-link" href="#currently-working"> Projetos e Experiências </a></h2>
 
 ⭐ Plataforma de Biologia, projeto apoiado pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE) do campus Barbacena. Durante o projeto atuei como bolsista responsável pelo desenvolvimento web da plataforma. Utilizei ferramentas de prototipação e desenvolvimento front. <br>
 
