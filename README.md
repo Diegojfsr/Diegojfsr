@@ -11,14 +11,13 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
   desenvolvimento front end com foco na Experiência do Usuário.
 </em>
 
-### [Um pouco mais sobre](https:)
-
-🌠 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular. <br>
-🌠 Coordenador TI na secretaria de educação da SFG. <br>
-🌠 Professor de Informática no Ensino Básico. <br>
-🌠 UI/UX Designer e Colaborador Adobe. <br>
-🌠 Técnico em Desenvolvimento de Sistemas pelo IFES. <br>
-🌠 Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG. <br>
+### Um pouco mais sobre
+  🌠 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular. <br>
+  🌠 Coordenador TI na secretaria de educação da SFG. <br>
+  🌠 Professor de Informática no Ensino Básico. <br>
+  🌠 UI/UX Designer e Colaborador Adobe. <br>
+  🌠 Técnico em Desenvolvimento de Sistemas pelo IFES. <br>
+  🌠 Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG. <br>
 
 
 ## [Projetos e Experiências](https:)
@@ -29,13 +28,13 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 
 ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema. <br>
 
-
+<h3>
 <em>
   Te convido a conhecer de perto um pouco mais do meu trabalho em:
-  <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | 
-  <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a></li>
+    <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | 
+    <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a></li>
 </em>
-
+</h3>
 
 
 
