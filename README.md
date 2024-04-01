@@ -4,7 +4,6 @@
 # [Hey, I'm Diego Jefferson! :)](https:)
 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular  <br>
 More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a>
-
 <em>
   Iniciei minha trajetória como Design/UX & UI. 
   Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. 
@@ -12,8 +11,7 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
   desenvolvimento front end com foco na Experiência do Usuário.
 </em>
 
-
-## [Um pouco mais sobre](https:)
+### [Um pouco mais sobre](https:)
 
 🌠 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular. <br>
 🌠 Coordenador TI na secretaria de educação da SFG. <br>
