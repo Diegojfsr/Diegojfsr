@@ -2,14 +2,14 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
 
 # [Hey, I'm Diego Jefferson! :)](https:)
-Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular  <br>
-More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a>
-<em>
+Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular
+<!-- <p> More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a> </p> -->
+
+<p><em>
   Iniciei minha trajetória como Design/UX & UI. 
   Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. 
-  Desde então, venho trabalhando com sistemas web e 
-  desenvolvimento front end com foco na Experiência do Usuário.
-</em>
+  Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário.
+</em></p>
 
 ### Um pouco mais sobre
   🌠 Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular. <br>
@@ -28,13 +28,11 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 
 ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema. <br>
 
-<h3>
-<em>
+<h3><em>
   Te convido a conhecer de perto um pouco mais do meu trabalho em:
     <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | 
     <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a></li>
-</em>
-</h3>
+</em></h3>
 
 
 
