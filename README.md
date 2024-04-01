@@ -32,7 +32,6 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 </p>
 
 
-
 <em>
   Te convido a conhecer de perto um pouco mais do meu trabalho em:
   <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | 
@@ -48,17 +47,6 @@ More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Link
 ⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura  MVC, JAVA e uma fonte de dados SQL. <br>
 
 ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema. <br>
-
--->
-
-
-
-
-
-
-
-<!--
-<h1 id="user-content-hey-im-maiane-gabriele-" dir="auto"><a class="heading-link" href="#hey-im-maiane-gabriele-">Hey, I'm Diego Jefferson! :)<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 
 -->
 
