@@ -2,7 +2,7 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
 
 # [Hey, I'm Diego Jefferson! :)](https:)
-Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular
+### Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular
 <!-- <p> More: <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a> </p> -->
 
 <p><em>
