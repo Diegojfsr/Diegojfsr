@@ -30,6 +30,7 @@
 
 <h3><em>
   Te convido a conhecer de perto um pouco mais do meu trabalho em:
+  [Curso de JavaScript - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
     <a href="https://www.linkedin.com/in/diegojfsr/"><code>Linkedin</code></a> | 
     <a href="https://diegojfsr.myportfolio.com/"><code>Personal website</code></a></li>
 </em></h3>
