@@ -24,12 +24,10 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 > ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema.  
 
 
-<h2>
-Te convido a conhecer um pouco mais do meu trabalho em:  
-<a href="https://www.linkedin.com/in/diegojfsr/" alt="Linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0054F7?style=for-the-badge&labelColor=0054F7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegojfsr/"></a><a href="https://diegojfsr.myportfolio.com/" alt="Myportfolio" target="_blank"><img src="https://img.shields.io/badge/Myportfolio-0054F7?style=for-the-badge&labelColor=0054F7&logo=Adobe%20Creative%20Cloud&amp;logoColor=white&link=https://diegojfsr.myportfolio.com/"></a>
-</h2>
+<h2>Te convido a conhecer um pouco mais do meu trabalho em:
+<a href="https://www.linkedin.com/in/diegojfsr/" alt="Linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0054F7?style=for-the-badge&labelColor=0054F7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegojfsr/"></a> <a href="https://diegojfsr.myportfolio.com/" alt="Myportfolio" target="_blank"><img src="https://img.shields.io/badge/Myportfolio-0054F7?style=for-the-badge&labelColor=0054F7&logo=Adobe%20Creative%20Cloud&amp;logoColor=white&link=https://diegojfsr.myportfolio.com/"></a
 
-
+  </h2>
 
 
 
@@ -62,6 +60,9 @@ Te convido a conhecer um pouco mais do meu trabalho em:
 
 
 <!--
+
+<h2>Te convido a conhecer um pouco mais do meu trabalho em:  
+<a href="https://www.linkedin.com/in/diegojfsr/" alt="Linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0054F7?style=for-the-badge&labelColor=0054F7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegojfsr/"></a> <a href="https://diegojfsr.myportfolio.com/" alt="Myportfolio" target="_blank"><img src="https://img.shields.io/badge/Myportfolio-0054F7?style=for-the-badge&labelColor=0054F7&logo=Adobe%20Creative%20Cloud&amp;logoColor=white&link=https://diegojfsr.myportfolio.com/"></a>
 
 
 [<img src="https://github.com/Diegojfsr/Diegojfsr/assets/65885167/a7ae6c8c-b498-4da1-bc67-643883d884d2" width="35"/>](https://www.linkedin.com/in/diegojfsr/)  
