@@ -30,7 +30,7 @@
 
 <h3><em>
   Te convido a conhecer de perto um pouco mais do meu trabalho em:
-    <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | 
+    <a href="https://www.linkedin.com/in/diegojfsr/" target="_blank"><code>Linkedin</code></a> | 
     <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>Personal website</code></a></li>
 </em></h3>
 
