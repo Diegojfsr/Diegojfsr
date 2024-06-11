@@ -37,6 +37,13 @@ Te convido a conhecer um pouco mais do meu trabalho em:
 
 <!--
 
+<pre>
+<span class="pl-s">🤓 As a good designer, I don't really have good code to include in my GitHub.</span>
+<span class="pl-s">🤓 But I thought it would be important to make my profile pretty. Sorry, people.</span>
+</pre>
+
+
+
 
 <div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-s">🤓 As a good designer, I don't really have good code to include in my GitHub.</span>
 <span class="pl-s">🤓 But I thought it would be important to make my profile pretty. Sorry, people.</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
