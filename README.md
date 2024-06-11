@@ -28,12 +28,15 @@
 
 ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema. <br>
 
-<h3><em>
-  Te convido a conhecer de perto um pouco mais do meu trabalho em:
-  [Curso de JavaScript - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
-    <a href="https://www.linkedin.com/in/diegojfsr/"><code>Linkedin</code></a> | 
-    <a href="https://diegojfsr.myportfolio.com/"><code>Personal website</code></a></li>
-</em></h3>
+<h3>
+<em>
+Te convido a conhecer de perto um pouco mais do meu trabalho em:
+
+[<code>Linkedin</code>](https://www.linkedin.com/in/diegojfsr/)
+[<code>Personal website</code>](https://diegojfsr.myportfolio.com/)
+
+</em>
+</h3>
 
 
 
