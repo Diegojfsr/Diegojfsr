@@ -26,8 +26,7 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 
 <h2>
 Te convido a conhecer um pouco mais do meu trabalho em:  
-<a href="https://www.linkedin.com/in/diegojfsr/" alt="Linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0054F7?style=for-the-badge&labelColor=0054F7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegojfsr/"></a>
-<a href="https://diegojfsr.myportfolio.com/" alt="Myportfolio" target="_blank"><img src="https://img.shields.io/badge/Myportfolio-0054F7?style=for-the-badge&labelColor=0054F7&logo=Adobe%20Creative%20Cloud&amp;logoColor=white&link=https://diegojfsr.myportfolio.com/"></a>
+<a href="https://www.linkedin.com/in/diegojfsr/" alt="Linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0054F7?style=for-the-badge&labelColor=0054F7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegojfsr/"></a><a href="https://diegojfsr.myportfolio.com/" alt="Myportfolio" target="_blank"><img src="https://img.shields.io/badge/Myportfolio-0054F7?style=for-the-badge&labelColor=0054F7&logo=Adobe%20Creative%20Cloud&amp;logoColor=white&link=https://diegojfsr.myportfolio.com/"></a>
 </h2>
 
 
