@@ -1,4 +1,4 @@
-![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa%20Perfil.jpg)
+![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
 # [Hey, I'm Diego Jefferson! :)](https:)
 ### Desenvolvedor Front end  com foco em JavaScript, TypeScript e Angular
