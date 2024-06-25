@@ -1,10 +1,12 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
+
 # [Hey, I'm Diego Jefferson! :)](https:)
 ### Desenvolvedor Front end  com foco em JavaScript, TypeScript e Angular
 
-_Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.  
+_Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.
 Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário._
+
 
   <p float="center">
     
