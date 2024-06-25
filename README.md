@@ -3,26 +3,14 @@
 # [Olá, Sou Diego Jefferson! :)  Desenvolvedor Front-end](https:)
 
 ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. Desde então, venho trabalhando com sistemas web e desenvolvimento front-end com foco em JavaScript, TypeScript e Angular.
-### Atuei como professor de informática em Escolas Públicas e como Coordenador na Secretaria de Educação Municipal.
-
->   🌠 <strong>Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular.</strong>  
->   🌠 <strong>Coordenador TI na secretaria de educação da SFG.</strong>  
->   🌠 <strong>Professor de Informática no Ensino Básico.</strong>  
->   🌠 <strong>UI/UX Designer e Colaborador Adobe.</strong>  
->   🌠 <strong>Técnico em Desenvolvimento de Sistemas pelo IFES.</strong>  
->   🌠 <strong>Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG.</strong>  
-
-## [Projetos e Experiências](https:)
-
-> ⭐ Plataforma de Biologia, projeto apoiado pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE) do campus Barbacena. Durante o projeto atuei como bolsista responsável pelo desenvolvimento web da plataforma. Utilizei ferramentas de prototipação e desenvolvimento front.
-
-> ⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura  MVC, JAVA e uma fonte de dados SQL.
-
-> ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema.  
+### Atuei como professor de informática em Escolas Públicas e como Coordenador na Secretaria de Educação Municipal. Além disso participei como UI/UX Designer Colaborator na Adobe.
+### Sou Técnico em Desenvolvimento de Sistemas, formado pelo IFES e Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG.
+### Venho participando de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
+### Te convido a conhecer um pouco mais do meu trabalho em:
 
 
 <p float="center">
-    
+
 [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
