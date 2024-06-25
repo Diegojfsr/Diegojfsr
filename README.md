@@ -10,8 +10,8 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 
   <p float="center">
     
-  [<img src="https://img.shields.io/badge/MYPRTFOLIO-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height="50"></a>](https://diegojfsr.myportfolio.com/)
-  [<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
+  [<img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height="45"></a>](https://diegojfsr.myportfolio.com/)
+  [<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"></a>](https://www.linkedin.com/in/diegojfsr/)
 
   
   <!-- 
