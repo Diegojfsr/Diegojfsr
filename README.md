@@ -8,9 +8,10 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 
 
   <p float="center">
-    <a href="https:"> <img src="https://github.com/Diegojfsr/JavaScript_Exercicios/blob/main/img/Ex1.jpg" width="250"/></a>
-    <a href="https:"> <img src="https://github.com/Diegojfsr/JavaScript_Exercicios/blob/main/img/Ex2.jpg" width="250"/></a>
-    <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar"> <img src="https://github.com/Diegojfsr/JavaScript_Exercicios/blob/main/img/Ex3.jpg" width="250"/></a>
+    <a href="https:"> <img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Ex11.jpg" width="330"/></a>
+    <a href="https:"> <img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Ex22.jpg" width="330"/></a>
+    <a href="https:"> <img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Ex33.jpg" width="330"/></a>
+
 
   </p>
 
