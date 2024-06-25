@@ -6,14 +6,27 @@
 _Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.  
 Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário._
 
-
   <p float="center">
+    
+  [<img src="https://img.shields.io/badge/website-005386?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://diegojfsr.myportfolio.com/)
+  [<img src="https://img.shields.io/badge/Linkedin-0054F7?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
+
+  
+  <!-- 
+  [<img src="https://img.shields.io/badge/Projetos-181818?style=for-the-badge&logo=supabase&logoColor=white" height="70"></a>]() 
+    [<img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
+  -->
+ </p>
+
+
+
+  <!--  
     <a href="https:"> <img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Ex11.jpg" width="330"/></a>
     <a href="https:"> <img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Ex22.jpg" width="330"/></a>
     <a href="https:"> <img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Ex33.jpg" width="330"/></a>
+-->
 
-
-  </p>
+ 
 
 
 
@@ -39,6 +52,23 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 
 <h2>Te convido a conhecer um pouco mais do meu trabalho em:  
 <a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>MyPortfolio</code></a>.</h2>
+
+
+
+<!--
+
+[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
+
+-->
+
+
+
+
+
+
+
+
+
 
 
 <!--
