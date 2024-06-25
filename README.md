@@ -6,6 +6,18 @@
 _Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.  
 Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário._
 
+
+  <p float="center">
+    <a href="https:"> <img src="https://github.com/Diegojfsr/JavaScript_Exercicios/blob/main/img/Ex1.jpg" width="250"/></a>
+    <a href="https:"> <img src="https://github.com/Diegojfsr/JavaScript_Exercicios/blob/main/img/Ex2.jpg" width="250"/></a>
+    <a href="https://github.com/Diegojfsr/Exercicios_JavaScript_HoraDeCodar"> <img src="https://github.com/Diegojfsr/JavaScript_Exercicios/blob/main/img/Ex3.jpg" width="250"/></a>
+
+  </p>
+
+
+
+
+
 ## [Um pouco mais sobre](https:)
 >   🌠 <strong>Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular.</strong>  
 >   🌠 <strong>Coordenador TI na secretaria de educação da SFG.</strong>  
