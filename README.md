@@ -1,23 +1,75 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
-# [Olá, Sou Diego Jefferson! :)](https:)
-### Desenvolvedor Front end  com foco em JavaScript, TypeScript e Angular
+<h1>
+  Olá, Sou Diego Jefferson! :)   Desenvolvedor Front-end
+</h1>
 
-_Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.
-Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário._
+<h3>
+<em>
+Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.
+Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário.
+</em>
+</h3>
 
-
-  <p float="center">
+<p float="center">
     
-  [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
-  [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
-  [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"></a>](https://www.behance.net/diegojfsr)
+[<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
+[<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"></a>](https://www.behance.net/diegojfsr)
+
+</p>
+
+
+
+<!--
+
+## [Um pouco mais sobre](https:)
+>   🌠 <strong>Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular.</strong>  
+>   🌠 <strong>Coordenador TI na secretaria de educação da SFG.</strong>  
+>   🌠 <strong>Professor de Informática no Ensino Básico.</strong>  
+>   🌠 <strong>UI/UX Designer e Colaborador Adobe.</strong>  
+>   🌠 <strong>Técnico em Desenvolvimento de Sistemas pelo IFES.</strong>  
+>   🌠 <strong>Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG.</strong>  
+
+-->
+
+
+<!--
+
+## [Projetos e Experiências](https:)
+
+> ⭐ Plataforma de Biologia, projeto apoiado pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE) do campus Barbacena. Durante o projeto atuei como bolsista responsável pelo desenvolvimento web da plataforma. Utilizei ferramentas de prototipação e desenvolvimento front.
+
+> ⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura  MVC, JAVA e uma fonte de dados SQL.
+
+> ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema.  
+
+-->
 
 
 
 
-  
+
+
+<!--
+<h2>Te convido a conhecer um pouco mais do meu trabalho em:  
+<a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>MyPortfolio</code></a>.</h2>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <!-- 
     [<img src="https://img.shields.io/badge/Projetos-181818?style=for-the-badge&logo=supabase&logoColor=white" height="70"></a>]() 
     [<img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
@@ -27,8 +79,7 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
     https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
     https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   -->
- </p>
-
+ 
 
 
   <!--  
@@ -43,26 +94,6 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 
 
 
-## [Um pouco mais sobre](https:)
->   🌠 <strong>Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular.</strong>  
->   🌠 <strong>Coordenador TI na secretaria de educação da SFG.</strong>  
->   🌠 <strong>Professor de Informática no Ensino Básico.</strong>  
->   🌠 <strong>UI/UX Designer e Colaborador Adobe.</strong>  
->   🌠 <strong>Técnico em Desenvolvimento de Sistemas pelo IFES.</strong>  
->   🌠 <strong>Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG.</strong>  
-
-
-## [Projetos e Experiências](https:)
-
-> ⭐ Plataforma de Biologia, projeto apoiado pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE) do campus Barbacena. Durante o projeto atuei como bolsista responsável pelo desenvolvimento web da plataforma. Utilizei ferramentas de prototipação e desenvolvimento front.
-
-> ⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura  MVC, JAVA e uma fonte de dados SQL.
-
-> ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema.  
-
-
-<h2>Te convido a conhecer um pouco mais do meu trabalho em:  
-<a href="https://www.linkedin.com/in/diegojfsr/" rel="nofollow"><code>Linkedin</code></a> | <a href="https://diegojfsr.myportfolio.com/" rel="nofollow"><code>MyPortfolio</code></a>.</h2>
 
 
 
@@ -71,15 +102,6 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 [<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
 
 -->
-
-
-
-
-
-
-
-
-
 
 
 <!--
