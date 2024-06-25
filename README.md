@@ -10,13 +10,18 @@ Desde então, venho trabalhando com sistemas web e desenvolvimento front end com
 
   <p float="center">
     
-  [<img src="https://img.shields.io/badge/website-005386?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://diegojfsr.myportfolio.com/)
-  [<img src="https://img.shields.io/badge/Linkedin-0054F7?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
+  [<img src="https://img.shields.io/badge/MYPRTFOLIO-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height="50"></a>](https://diegojfsr.myportfolio.com/)
+  [<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
 
   
   <!-- 
-  [<img src="https://img.shields.io/badge/Projetos-181818?style=for-the-badge&logo=supabase&logoColor=white" height="70"></a>]() 
+    [<img src="https://img.shields.io/badge/Projetos-181818?style=for-the-badge&logo=supabase&logoColor=white" height="70"></a>]() 
     [<img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
+    [<img src="https://img.shields.io/badge/Linkedin-0054F7?style=for-the-badge&logo=About.me&logoColor=white" height="50"></a>](https://www.linkedin.com/in/diegojfsr/)
+
+    https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white
+    https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   -->
  </p>
 
