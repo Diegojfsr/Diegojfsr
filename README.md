@@ -1,15 +1,25 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
-<h1>
-  Olá, Sou Diego Jefferson! :)   Desenvolvedor Front-end
-</h1>
+# [Olá, Sou Diego Jefferson! :)  Desenvolvedor Front-end](https:)
 
-<h3>
-<em>
-Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia.
-Desde então, venho trabalhando com sistemas web e desenvolvimento front end com foco na Experiência do Usuário.
-</em>
-</h3>
+### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a Graduação em Gestão da Tecnologia. Desde então, venho trabalhando com sistemas web e desenvolvimento front-end com foco em JavaScript, TypeScript e Angular.
+### Atuei como professor de informática em Escolas Públicas e como Coordenador na Secretaria de Educação Municipal.
+
+>   🌠 <strong>Desenvolvedor Front end  com foco em Html, Css, JavaScript, TypeScript e Angular.</strong>  
+>   🌠 <strong>Coordenador TI na secretaria de educação da SFG.</strong>  
+>   🌠 <strong>Professor de Informática no Ensino Básico.</strong>  
+>   🌠 <strong>UI/UX Designer e Colaborador Adobe.</strong>  
+>   🌠 <strong>Técnico em Desenvolvimento de Sistemas pelo IFES.</strong>  
+>   🌠 <strong>Acadêmico em Gestão de Tecnologia da Informação pelo IFSudesteMG.</strong>  
+
+## [Projetos e Experiências](https:)
+
+> ⭐ Plataforma de Biologia, projeto apoiado pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE) do campus Barbacena. Durante o projeto atuei como bolsista responsável pelo desenvolvimento web da plataforma. Utilizei ferramentas de prototipação e desenvolvimento front.
+
+> ⭐ MyRepsApp, sistema responsivo e de fácil usabilidade, oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários. Neste projeto utilizamos o padrão de arquitetura  MVC, JAVA e uma fonte de dados SQL.
+
+> ⭐ The Space of Developers, plataforma de estudo desenvolvida para disponibilizar cursos de programação gratuitos. Pude definir a arquitetura deste projeto a partir do zero, pensando no que seria mais adequado para a experiência dos usuários. Minha decisão de usar Angular, trouxe extrema flexibilidade e eficiência para o sistema.  
+
 
 <p float="center">
     
