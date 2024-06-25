@@ -1,6 +1,5 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
-
 # [Olá, Sou Diego Jefferson! :)](https:)
 ### Desenvolvedor Front end  com foco em JavaScript, TypeScript e Angular
 
