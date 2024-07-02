@@ -1,6 +1,6 @@
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
-# [Olá, Sou Diego Jefferson! :)  Desenvolvedor Front-end](https:)
+# Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end
 
 ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando com sistemas web e desenvolvimento front-end com foco em [JavaScript, TypeScript e Angular](https:).
 ### Atuei como [professor de informática](https:) em Escolas Públicas e como [Coordenador](https:) na Secretaria de Educação Municipal. Além disso participei como UI/UX Designer Colaborator na Adobe.
