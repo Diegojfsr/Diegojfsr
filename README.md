@@ -3,7 +3,7 @@
 # Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end
 
 ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando com sistemas web e desenvolvimento front-end com foco em [JavaScript, TypeScript e Angular](https:).
-### Atuei como [professor de informática](https:) em Escolas Públicas e como [Coordenador](https:) na Secretaria de Educação Municipal. Além disso participei como UI/UX Designer Colaborator na Adobe.
+### Atuei como [professor de informática](https:) em Escolas Públicas e como [Coordenador](https:) na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
 ### Sou Técnico em Desenvolvimento de Sistemas, formado pelo [IFES](https://alegre.ifes.edu.br/) e Acadêmico em Gestão de Tecnologia da Informação pelo [IFSudesteMG](https://www.ifsudestemg.edu.br/muriae).
 ### Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
 ### Atualmente venho participando ativamente de projetos web utilizando tecnologias como [Node Js, Javascript, Typescript, React e Angular](). Também venho expandindo meu interesse pelo desenvolvimento back-end utilizando [Spring Framework e Java](), modelagem de dados com [Oracle e PostgreSQL](), onde tenho investindo meu tempo participando de formações e assumindo algumas responsabilidades em pequenos projetos que envolvam essas tecnologias.
