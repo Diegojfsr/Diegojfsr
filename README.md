@@ -12,10 +12,10 @@
 > 
 > ### Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
 > 
-> ### Atualmente venho participando ativamente de projetos web utilizando tecnologias como [Node Js, Javascript, Typescript, React e Angular](). Também venho expandindo meu interesse pelo desenvolvimento back-end utilizando [Spring Framework, Java]() e modelagem de dados com [Oracle e PostgreSQL](), por isso tenho investindo meu tempo participando de formações e assumindo responsabilidades em projetos que envolvam essas tecnologias.
+> ### Atualmente venho trabalhando com projetos web utilizando tecnologias como [Node Js, Javascript, Typescript, React e Angular](). Durante meu dia participo de cerimônias [Scrum](), discussão de projetos, levantamento de dúvidas e sugestões. Também venho expandindo meu interesse pelo desenvolvimento back-end utilizando [Spring Framework, Java]() e modelagem de dados com [Oracle e PostgreSQL](), por isso tenho investido meu tempo participando de formações e assumindo responsabilidades em projetos que envolvam essas tecnologias.
 > 
-> ### Durante meu dia também participo de cerimônias [Scrum](), estimativa de esforço, discussão de projetos, levantamento de dúvidas, impactos e sugestões.
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
+
 </p>
 
 <!-- Tag centralizadora das Badges -->
