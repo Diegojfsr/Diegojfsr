@@ -3,15 +3,15 @@
 
 # Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end
 
-> ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando com sistemas web e desenvolvimento front-end com foco em [JavaScript, TypeScript e Angular](https:).
+> ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando em projetos web utilizando tecnologias como [Oracle, PostgreSQL, Node Js, Javascript, Typescript, React e Angular.]()
 > 
-> ### Atuei como [professor de informática](https:) em Escolas Públicas e como [Coordenador](https:) na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
+> ### Atuei como [professor de informática]() em Escolas Públicas e como [Coordenador]() na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
 > 
 > ### Sou Técnico em Desenvolvimento de Sistemas, formado pelo [IFES](https://alegre.ifes.edu.br/) e Acadêmico em Gestão de Tecnologia da Informação pelo [IFSudesteMG](https://www.ifsudestemg.edu.br/muriae).
 > 
 > ### Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
 > 
-> ### Atualmente venho trabalhando com projetos web utilizando tecnologias como [Node Js, Javascript, Typescript, React e Angular](). Durante meu dia participo de cerimônias [Scrum](), discussão de projetos, levantamento de dúvidas e sugestões. Também venho expandindo meu interesse pelo desenvolvimento back-end utilizando [Spring Framework, Java]() e modelagem de dados com [Oracle e PostgreSQL](), por isso tenho investido meu tempo participando de formações e assumindo responsabilidades em projetos que envolvam essas tecnologias.
+> ### Durante meu dia participo de cerimônias [Scrum](), discussão de projetos, levantamento de dúvidas e sugestões; Trabalho em colaboração com [squads]() multidisciplinares, em estreita colaboração com a equipe de desenvolvimento front-end integrando [APIs]() e serviços back-end para recuperar e exibir [dados]();  Também trabalho desenvolvendo [interfaces de usuários]() interativas e responsivas;  [Desenvolvo componentes]() reutilizáveis e modularizados que possam ser facilmente integrados em vários projetos;  Melhorando o desempenho das aplicações garantindo tempos de carregamento rápidos e uma experiência leve e otimizada;  [Realizo testes unitários]() e depuração de código para garantir a qualidade e a estabilidade das aplicações; Além de garantir a qualidade e boas práticas de programação.
 > 
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
 
