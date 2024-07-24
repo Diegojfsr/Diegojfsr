@@ -3,7 +3,7 @@
 
 # Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end
 
-> ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando em projetos web utilizando tecnologias como, [Oracle, PostgreSQL, Node Js, Javascript, Typescript, React e Angular.]()
+> ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando em projetos web utilizando tecnologias como [Oracle, PostgreSQL, Node Js, Javascript, Typescript, React e Angular.]()
 > 
 > ### Atuei como [professor de informática]() em Escolas Públicas e como [Coordenador]() na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
 > 
