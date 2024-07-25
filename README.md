@@ -17,7 +17,6 @@
 > 
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
 
-</p>
 
 <!-- Tag centralizadora das Badges -->
 <p float="center">
