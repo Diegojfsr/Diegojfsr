@@ -11,7 +11,9 @@
 > 
 > ### Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
 > 
-> ### Durante meu dia participo de cerimônias [Scrum](), discussão de projetos, levantamento de dúvidas e sugestões; Trabalho em colaboração com [squads]() multidisciplinares, em estreita colaboração com a equipe de desenvolvimento front-end integrando [APIs]() e serviços back-end para recuperar e exibir [dados](); Também trabalho desenvolvendo [interfaces de usuários]() interativas e responsivas; [Desenvolvo componentes]() reutilizáveis e modularizados que possam ser facilmente integrados em vários projetos; Melhorando o desempenho das aplicações garantindo tempos de carregamento rápidos e uma experiência leve e otimizada [Realizo testes unitários]() e depuração de código para garantir a qualidade e a estabilidade das aplicações; Além de garantir a qualidade e boas práticas de programação.
+> ### Durante meu dia participo de cerimônias [Scrum](), discussão de projetos, levantamento de dúvidas e sugestões. Tenho trabalhado com [squads]() multidisciplinares, em estreita colaboração com a equipe de desenvolvimento front-end, integrando APIs e serviços back-end para recuperar e exibir [dados](), melhorando o desempenho das aplicações garantindo um tempo de carregamento rápido e uma experiência leve e otimizada.
+> 
+> ### Também trabalho desenvolvendo [interfaces de usuários]() interativas e responsivas, juntamente com [componentes]() reutilizáveis e modularizados que possam ser facilmente integrados em vários projetos. [Realizo testes unitários]() e depuração de código garantindo a qualidade e a estabilidade da aplicação.
 > 
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
 
