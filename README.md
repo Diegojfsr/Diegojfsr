@@ -11,7 +11,7 @@
 > 
 > ### Tenho experiência em projetos utilizando [React Router, Redux, Context Api, Hooks]() para construção de interfaces de usuário, [Jest]() para testes unitários, [Webpack]() para empacotamento e [Styled Components]() para estilizar componentes em aplicações React.
 >
-> ### Possuo habilidades com Bancos de dados relacionais [PostgreSQL, MySQL]() e bancos NoSQL [Oracle DB e Mongo DB](). E também com sistemas distribuídos em [Docker]() e ferramentas de processamento e armazenamento de dados em [cloud AWS]().
+> ### Possuo habilidades com Bancos de dados relacionais [PostgreSQL, MySQL]() e bancos NoSQL [Oracle DB e Mongo DB](). Também tenho habilidades com sistemas distribuídos em [Docker]() e ferramentas de processamento e armazenamento de dados em [cloud AWS]().
 >
 > ### Destaco-me pelo meu perfil colaborativo e participativo. Tenho uma sólida base técnica e estou preparado para contribuir significativamente com equipes multidisciplinares e Squads utilizando metodologias ágeis.
 > 
