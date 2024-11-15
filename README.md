@@ -5,7 +5,7 @@
 
 > ### Sou desenvolvedor front-end com mais de 3 anos de experiência na criação de sistemas web que já impactaram mais de 10.000 usuários. Atuo nos setores de [tecnologia educacional e saúde](). Trabalho com arquiteturas front-end utilizando [JavaScript, TypeScript, React Js, Next Js, Node Js e Express Js]().
 >
-> ### Sou Técnico em Desenvolvimento de Sistemas, formado pelo [IFES](https://alegre.ifes.edu.br/) e Gestor de Tecnologia da Informação pelo [IF Sudeste MG](https://www.ifsudestemg.edu.br/muriae). Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
+> ### Minha formação acadêmica inclui Desenvolvimento de Sistemas, pelo [IFES](https://alegre.ifes.edu.br/) e Gestão em Tecnologia da Informação pelo [IF Sudeste MG](https://www.ifsudestemg.edu.br/muriae). Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
 >
 > ### Atuei como [professor de informática]() em Escolas Públicas e como [Coordenador]() na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
 > 
