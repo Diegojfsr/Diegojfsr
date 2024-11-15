@@ -3,18 +3,18 @@
 
 # Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end
 
-> ### Iniciei minha trajetória como Design/UX & UI. Em 2021 iniciei os estudos e a [Graduação em Gestão da Tecnologia](https:). Desde então, venho trabalhando em projetos web utilizando tecnologias como [Oracle, PostgreSQL, Node Js, Javascript, Typescript, React e Angular.]()
+> ### Sou desenvolvedor front-end com mais de 3 anos de experiência na criação de sistemas web que já impactaram mais de 10.000 usuários. Atuo nos setores de [tecnologia educacional e saúde](). Trabalho com arquiteturas front-end utilizando [JavaScript, TypeScript, React Js, Next Js, Node Js e Express Js]().
 > 
+> ### Sou Técnico em Desenvolvimento de Sistemas, formado pelo [IFES](https://alegre.ifes.edu.br/) e Gestor de Tecnologia da Informação pelo [IF Sudeste MG](https://www.ifsudestemg.edu.br/muriae). Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
+>
 > ### Atuei como [professor de informática]() em Escolas Públicas e como [Coordenador]() na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
-> 
-> ### Sou Técnico em Desenvolvimento de Sistemas, formado pelo [IFES](https://alegre.ifes.edu.br/) e Acadêmico em Gestão de Tecnologia da Informação pelo [IFSudesteMG](https://www.ifsudestemg.edu.br/muriae).
-> 
-> ### Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
-> 
-> ### Durante meu dia participo de cerimônias [Scrum](), discussão de projetos, levantamento de dúvidas e sugestões. Tenho trabalhado com [squads]() multidisciplinares, em estreita colaboração com a equipe de desenvolvimento front-end, integrando APIs e serviços back-end para recuperar e exibir [dados](), melhorando o desempenho das aplicações garantindo um tempo de carregamento rápido e uma experiência leve e otimizada.
-> 
-> ### Também trabalho desenvolvendo [interfaces de usuários]() interativas e responsivas, juntamente com [componentes]() reutilizáveis e modularizados que possam ser facilmente integrados em vários projetos. [Realizo testes unitários]() e depuração de código garantindo a qualidade e a estabilidade da aplicação.
-> 
+>
+> ### Tenho experiência em projetos utilizando [React Router, Redux, Context Api, Hooks]() para construção de interfaces de usuário, [Jest]() para testes unitários, [Webpack]() para empacotamento e [Styled Components]() para estilizar componentes em aplicações React.
+>
+> ### Possuo habilidades com Bancos de dados relacionais [PostgreSQL, MySQL]() e bancos NoSQL [Oracle DB e Mongo DB](). E também com sistemas distribuídos em [Docker]() e ferramentas de processamento e armazenamento de dados em [cloud AWS]().
+>
+> ### Me destaco com um perfil colaborativo, participativo e trabalho bem em equipes multidisciplinares e Squads utilizando metodologias ágeis. Com uma sólida base técnica estou preparado para contribuir com equipes de tecnologia e enfrentar os desafios da área.
+
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
 
 <!-- Tag centralizadora das Badges -->
