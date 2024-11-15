@@ -1,7 +1,7 @@
 
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
 
-# Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end
+<!--# Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end-->
 
 > ### Sou desenvolvedor front-end com mais de 3 anos de experiência na criação de sistemas web que já impactaram mais de 10.000 usuários. Atuo nos setores de [tecnologia educacional e saúde](). Trabalho com arquiteturas front-end utilizando [JavaScript, TypeScript, React Js, Next Js, Node Js e Express Js]().
 > 
