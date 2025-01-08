@@ -1,5 +1,5 @@
 
-![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaOracleOne.jpg)
+![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/CapaJan2025.jpg)
 
 <!--# Olá, Sou [Diego Jefferson]() :)  Desenvolvedor Front-end-->
 
