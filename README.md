@@ -8,7 +8,7 @@
 >
 > ### Atuei como [professor de informática]() em Escolas Públicas e como [Coordenador]() na Secretaria Municipal de Educação. Além disso participei como UI/UX Designer Colaborator na Adobe.
 > 
-> ### Tenho experiência em projetos utilizando [React Router, Redux, Context Api, Hooks]() para construção de interfaces e [Jest]() juntamente com [Webpack]() para testes unitários e empacotamento. Tenho habilidades com [Styled Components]() e 9Tailwind CSS]() para estilizar aplicações React e Next.js. E possuo conhecimento em banco de dados relacionais [PostgreSQL, MySQL]() e bancos [NoSQL]().
+> ### Tenho experiência em projetos utilizando [React Router, Redux, Context Api, Hooks]() para construção de interfaces e [Jest]() juntamente com [Webpack]() para testes unitários e empacotamento. Tenho habilidades com [Styled Components]() e [Tailwind CSS]() para estilizar aplicações React e Next.js. E possuo conhecimento em banco de dados relacionais [PostgreSQL, MySQL]() e bancos [NoSQL]().
 > 
 > ### Destaco-me pelo meu perfil colaborativo e participativo. Tenho uma sólida base técnica e estou preparado para contribuir significativamente com equipes multidisciplinares e Squads utilizando metodologias ágeis.
 > 
