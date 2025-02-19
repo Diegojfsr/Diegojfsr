@@ -1,5 +1,5 @@
 
-![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Imagens/Capa.jpg)
+![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
 
 > ### Sou um desenvolvedor com mais de 3 anos de experiência na criação de arquiteturas FrontEnd. Tenho atuado principalmente nos setores de tecnologia e educação. Minhas principais stacks incluem [JavaScript, TypeScript, React Js, Next Js e Node Js]().
 >
