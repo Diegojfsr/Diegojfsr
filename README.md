@@ -1,7 +1,7 @@
 
 ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
 
-> ### Sou um desenvolvedor com mais de 3 anos de experiência na criação de arquiteturas FrontEnd. Tenho atuado principalmente nos setores de tecnologia e educação. Minhas principais stacks incluem [JavaScript, TypeScript, React Js, Next Js e Node Js]().
+> ### Sou um desenvolvedor com 3 anos de experiência na criação de arquiteturas FrontEnd. Tenho atuado principalmente nos setores de tecnologia e educação. Minhas principais stacks incluem [JavaScript, TypeScript, React Js, Next Js e Node Js]().
 >
 > ### Minha formação acadêmica inclui, Desenvolvimento de Sistemas pelo [IFES](https://alegre.ifes.edu.br/) e Gestão em Tecnologia da Informação pelo [IF Sudeste MG](https://www.ifsudestemg.edu.br/muriae).
 > ### Durante minha jornada acadêmica pude participar de projetos apoiados pelo IF Sudeste MG, por intermédio da Diretoria de Pesquisa, Inovação e Pós-Graduação (DPIPG) e da Diretoria de Ensino (DE).
