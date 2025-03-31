@@ -3,10 +3,10 @@
 
 > <div style="text-align: center;">
   
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="60px" width="225px"></a>](https://diegojfsr.myportfolio.com/)
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Linkedin.jpg" height="60px" width="225px"></a>](https://www.linkedin.com/in/diegojfsr/)
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Medium.jpg" height="60px" width="225px"></a>](https://medium.com/@diegojfsr)
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Behance.jpg" height="60px" width="225px"></a>](https://www.behance.net/diegojfsr)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="60px" width="215px"></a>](https://diegojfsr.myportfolio.com/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Linkedin.jpg" height="60px" width="215px"></a>](https://www.linkedin.com/in/diegojfsr/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Medium.jpg" height="60px" width="215px"></a>](https://medium.com/@diegojfsr)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Behance.jpg" height="60px" width="215px"></a>](https://www.behance.net/diegojfsr)
 > </div>
 
 
