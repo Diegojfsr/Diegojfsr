@@ -1,25 +1,13 @@
 > 
 > ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
 
-<div style="text-align: center;">
-  
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="60px" width="200px"></a>](https://diegojfsr.myportfolio.com/)
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="50px" width="250px"></a>](https://diegojfsr.myportfolio.com/)
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="50px" width="250px"></a>](https://diegojfsr.myportfolio.com/)
->  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="50px" width="250px"></a>](https://diegojfsr.myportfolio.com/)
-</div>
-
-<!--
 > <div style="text-align: center;">
-> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
-> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
-> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
-> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
+  
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="60px" width="225px"></a>](https://diegojfsr.myportfolio.com/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Linkedin.jpg" height="60px" width="225px"></a>](https://www.linkedin.com/in/diegojfsr/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Medium.jpg" height="60px" width="225px"></a>](https://medium.com/@diegojfsr)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Behance.jpg" height="60px" width="225px"></a>](https://www.behance.net/diegojfsr)
 > </div>
-
--->
-
-
 
 
 > ### Sou um profissional com 2 anos de experiência na criação de aplicações modernas e performáticas utilizando [React.js, Next.js, TypeScript, Styled-Components, Tailwind e integração eficiente de APIs REST. ]()
@@ -31,14 +19,3 @@
 > 
 > ### Destaco-me pelo meu perfil colaborativo e participativo. Tenho uma sólida base técnica e estou preparado para contribuir significativamente com equipes multidisciplinares e Squads utilizando metodologias ágeis.
 > 
-> ### Te convido a conhecer um pouco mais do meu trabalho em:
-
-> <!-- Tag centralizadora das Badges -->
-> <div style="text-align: center;">
-  
->  [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
->  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
->  [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
->  [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"></a>](https://www.behance.net/diegojfsr)
-
->  </div>
