@@ -1,10 +1,10 @@
 <div align="center">
  
   ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
-  <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio2.png" height="35px" width="185px" /></a>
-  <a href="https://www.linkedin.com/in/diegojfsr/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Linkedin2.png" height="35px" width="185px" /></a>
-  <a href="https://medium.com/@diegojfsr" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Medium2.png" height="35px" width="185px" /></a>
-  <a href="https://www.behance.net/diegojfsr" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Behance2.png" height="35px" width="185px" /></a>
+  <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio2.png" height="30px" width="185px" /></a>
+  <a href="https://www.linkedin.com/in/diegojfsr/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Linkedin2.png" height="30px" width="185px" /></a>
+  <a href="https://medium.com/@diegojfsr" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Medium2.png" height="30px" width="185px" /></a>
+  <a href="https://www.behance.net/diegojfsr" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Behance2.png" height="30px" width="185px" /></a>
 
  ### Sou um profissional com 2 anos de experiência na criação de aplicações modernas e performáticas utilizando [React.js, Next.js, TypeScript, Styled-Components, Tailwind e integração eficiente de APIs REST. ]()
  ### Minha formação acadêmica inclui, Desenvolvimento de Sistemas pelo [IFES](https://alegre.ifes.edu.br/) e Gestão em Tecnologia da Informação pelo [IF Sudeste MG](https://www.ifsudestemg.edu.br/muriae).
