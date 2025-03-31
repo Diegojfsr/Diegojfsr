@@ -12,12 +12,12 @@
 > 
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
 
-<!-- Tag centralizadora das Badges -->
-<p float="center">
+> <!-- Tag centralizadora das Badges -->
+> <p float="center">
   
-  [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
-  [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
-  [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"></a>](https://www.behance.net/diegojfsr)
+>  [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
+>  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
+>  [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
+>  [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"></a>](https://www.behance.net/diegojfsr)
 
-</p>
+> </p>
