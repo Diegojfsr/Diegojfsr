@@ -1,6 +1,27 @@
 > 
 > ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
 
+<div style="text-align: center;">
+  
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="60px" width="200px"></a>](https://diegojfsr.myportfolio.com/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="50px" width="250px"></a>](https://diegojfsr.myportfolio.com/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="50px" width="250px"></a>](https://diegojfsr.myportfolio.com/)
+>  [<img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="50px" width="250px"></a>](https://diegojfsr.myportfolio.com/)
+</div>
+
+<!--
+> <div style="text-align: center;">
+> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
+> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
+> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
+> <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" width="200" /></a>
+> </div>
+
+-->
+
+
+
+
 > ### Sou um profissional com 2 anos de experiência na criação de aplicações modernas e performáticas utilizando [React.js, Next.js, TypeScript, Styled-Components, Tailwind e integração eficiente de APIs REST. ]()
 >
 > ### Minha formação acadêmica inclui, Desenvolvimento de Sistemas pelo [IFES](https://alegre.ifes.edu.br/) e Gestão em Tecnologia da Informação pelo [IF Sudeste MG](https://www.ifsudestemg.edu.br/muriae).
@@ -13,11 +34,11 @@
 > ### Te convido a conhecer um pouco mais do meu trabalho em:
 
 > <!-- Tag centralizadora das Badges -->
-> <p float="center">
+> <div style="text-align: center;">
   
 >  [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="40"></a>](https://diegojfsr.myportfolio.com/)
 >  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>](https://www.linkedin.com/in/diegojfsr/)
 >  [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"></a>](https://medium.com/@diegojfsr)
 >  [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"></a>](https://www.behance.net/diegojfsr)
 
-> </p>
+>  </div>
