@@ -1,5 +1,5 @@
-
-![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
+> 
+> ![](https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/Capa.jpg)
 
 > ### Sou um profissional com 2 anos de experiência na criação de aplicações modernas e performáticas utilizando [React.js, Next.js, TypeScript, Styled-Components, Tailwind e integração eficiente de APIs REST. ]()
 >
