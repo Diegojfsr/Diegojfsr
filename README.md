@@ -6,10 +6,10 @@
 
  ### Conheça um pouco mais do meu trabalho em: 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23593d88?style=for-the-badge&logo=todoist&logoColor=white)](https://diegojfsr.myportfolio.com/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23593d88?style=for-the-badge&logo=todoist&logoColor=white)](https://www.linkedin.com/in/diegojfsr/)
-[![Linkedin](https://img.shields.io/badge/Medium-%23593d88?style=for-the-badge&logo=todoist&logoColor=white)](https://medium.com/@diegojfsr)
-[![Linkedin](https://img.shields.io/badge/Behance-%23593d88?style=for-the-badge&logo=todoist&logoColor=white)](https://www.behance.net/diegojfsr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=todoist&logoColor=white)](https://diegojfsr.myportfolio.com/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-00599C?style=for-the-badge&logo=todoist&logoColor=white)](https://www.linkedin.com/in/diegojfsr/)
+[![Linkedin](https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=todoist&logoColor=white)](https://medium.com/@diegojfsr)
+[![Linkedin](https://img.shields.io/badge/Behance-00599C?style=for-the-badge&logo=todoist&logoColor=white)](https://www.behance.net/diegojfsr)
 
 
 
