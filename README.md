@@ -10,15 +10,5 @@
 <a href="https://medium.com/@diegojfsr"><img src="https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=todoist&logoColor=white" height="35px" width="150px" /></a>
 <a href="https://www.behance.net/diegojfsr"><img src="https://img.shields.io/badge/Behance-00599C?style=for-the-badge&logo=todoist&logoColor=white" height="35px" width="150px" /></a>
 
-
-
-
-
- <!--
-  <a href="https://diegojfsr.myportfolio.com/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Portifolio.jpg" height="30px" width="185px" /></a>
-  <a href="https://www.linkedin.com/in/diegojfsr/" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Linkedin.jpg" height="30px" width="185px" /></a>
-  <a href="https://medium.com/@diegojfsr" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Medium.jpg" height="30px" width="185px" /></a>
-  <a href="https://www.behance.net/diegojfsr" style="margin: 10px; text-decoration: none;"><img src="https://github.com/Diegojfsr/Diegojfsr/blob/main/Header/img/Behance.jpg" height="30px" width="185px" /></a>
--->
 </div>
 
